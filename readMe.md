@@ -1,4 +1,13 @@
-# Express Starterkit
+# Hire Job Back-End
+
+Backend for Hire Job built with Express and Postgres.
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+Hire Job Back-End is an API that can connects recruiters with job seekers.
+
+[Deploy Frontend](https://hire-job-fe-next.vercel.app) <br>
+[Frontend Repository](https://github.com/alkarim99/hire-job-fe-next)
 
 ## Install
 
