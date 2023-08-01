@@ -8,7 +8,8 @@ Hire Job Back-End is an API that can connects recruiters with job seekers.
 
 [Deploy Frontend](https://hire-job-fe-next.vercel.app) <br>
 [Frontend Repository](https://github.com/alkarim99/hire-job-fe-next) <br>
-[Deploy Backend](https://hire-job.onrender.com/)
+[Deploy Backend](https://hire-job.onrender.com/) <br>
+[Postman Documentation](https://documenter.getpostman.com/view/8030404/2s93z5AR1G)
 
 ## Install
 
