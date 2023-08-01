@@ -7,19 +7,21 @@ Backend for Hire Job built with Express and Postgres.
 Hire Job Back-End is an API that can connects recruiters with job seekers.
 
 [Deploy Frontend](https://hire-job-fe-next.vercel.app) <br>
-[Frontend Repository](https://github.com/alkarim99/hire-job-fe-next)
+[Frontend Repository](https://github.com/alkarim99/hire-job-fe-next) <br>
+[Deploy Backend](https://hire-job.onrender.com/)
 
 ## Install
 
 how to install in yout local, you can clone this repo with
 
-``` git clone https://github.com/kubi-codes/express-starterkit.git ```
+`git clone https://github.com/kubi-codes/express-starterkit.git`
 
 or you can click <b>use this template</b> and customize with your project.
 
 ## Setup
 
 Create your database and edit your .env.example to .env, after that change the value with your credential, example:
+
 ```
 APP_PORT=5000
 APP_SECRET_KEY=130a62774cfb6bd2ac7f05f08766f94a
@@ -33,6 +35,7 @@ DB_TYPE=mysql
 ```
 
 if you want REDIS Caching you can add on bottom env file like this
+
 ```
 APP_PORT=5000
 APP_SECRET_KEY=130a62774cfb6bd2ac7f05f08766f94a
@@ -54,4 +57,5 @@ npm install
 sequelize db:migrate
 nodemon
 ```
+
 Thats all, you can use and customize this starterkit
