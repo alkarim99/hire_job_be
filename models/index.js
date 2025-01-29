@@ -16,7 +16,8 @@ const db = {};
 
 let sequelize;
 
-sequelize = new Sequelize(config.database, config.username, config.password, config);
+// sequelize = new Sequelize(config.database, config.username, config.password, config);
+sequelize = new Sequelize(process.env.DATABASE_URL, config);
 
 fs
   .readdirSync(__dirname)
