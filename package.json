@@ -30,7 +30,7 @@
     "nodemailer": "^6.9.3",
     "pg": "^8.13.1",
     "redis": "^4.5.1",
-    "sequelize": "^6.6.5",
+    "sequelize": "^6.37.5",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
